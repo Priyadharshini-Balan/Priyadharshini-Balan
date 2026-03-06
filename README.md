@@ -2,7 +2,7 @@
 <h3 align="center">MSc Artificial Intelligence Systems @ EPITA Aspiring AI & Machine Learning Engineer | LLMs • RAG • NLP</h3>
 
 - I’m currently learning **LLMs | RAG | Foundational models | MoE**
-- Seeking AI & Machine Learning Internship (France)
+- Seeking AI & Machine Learning Internship (France) where I can contribute and make positive impact with my skills and solutions!
 
 
 <p align="left">
