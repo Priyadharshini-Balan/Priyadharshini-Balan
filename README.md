@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, I'm Priyadharshini
+## 🎓 MSc Artificial Intelligence Systems @ EPITA
+## 🤖 Aspiring AI & Machine Learning Engineer | LLMs • RAG • NLP • MLOps
 <!--
 **Priyadharshini-Balan/Priyadharshini-Balan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
