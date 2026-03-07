@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA Aspiring AI & Machine Learning Engineer | LLMs • RAG • NLP</h3>
+<h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA | Aspiring AI & Machine Learning Engineer | LLMs • RAG • NLP</h3>
 
 - I’m currently learning **LLMs | RAG | Foundational models | MoE | NLP**
 - Seeking AI & Machine Learning Internship (France) where I can contribute and make positive impact with my skills and solutions!
