@@ -2,6 +2,7 @@
 <h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA | Aspiring AI & Machine Learning Engineer | LLMs • RAG • NLP</h3>
 
 - I’m currently learning **LLMs | RAG | Foundational models | MoE**
+- Experience with 5+ projects related to AI Audio and Video processing, Machine Learning, Data Science and Cloud (AWS).
 - Seeking AI & Machine Learning Internship (France) where I can contribute and make positive impact with my skills and solutions!
 
 
