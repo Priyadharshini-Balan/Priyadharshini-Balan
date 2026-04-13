@@ -3,6 +3,7 @@
 
 - I’m currently learning **LLMs | RAG | Foundational models | MoE**
 - Experience with 5+ projects related to AI Audio and Video processing, Machine Learning, Data Science and Cloud (AWS).
+- Curious!..Learning and working on AI Agent.
 - Seeking AI & Machine Learning Internship (France) where I can contribute and make positive impact with my skills and solutions!
 
 
