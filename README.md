@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
-<h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA | Aspiring AI & Machine Learning Engineer </h3>
+<h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA | AI & Machine Learning Engineer & Data </h3>
 
 - I’m currently learning **LLMs | RAG | Foundational models | MoE**
 - Experience with 5+ projects related to AI Audio and Video processing, Machine Learning, Data Science, MLOps and Cloud (AWS).
