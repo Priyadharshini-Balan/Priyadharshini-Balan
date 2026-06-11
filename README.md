@@ -2,7 +2,7 @@
 <h3 align="center">MSc Artificial Intelligence Systems Student @ EPITA | AI & Machine Learning Engineer & Data </h3>
 
 - I’m currently learning **LLMs | LangChain | RAG | Foundational models | MoE**
-- Experience with 5+ projects related to AI Audio and Video processing, Machine Learning, Data Science, MLOps and Cloud (AWS).
+- Experience with 5+ projects related to AI Audio and Image processing, Machine Learning, Data Science, MLOps and Cloud (AWS).
 - Curious!..Learning and working on AI Agent, LangChain, RAG and LLM.
 - Open to 6-month Internship in France where I can contribute and make positive impact with my skills and solutions!
 
